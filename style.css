@@ -190,6 +190,7 @@ h4{
 
 small{
 	color: #000;
+
 }
 .about{
 	font-size: 20px;
@@ -223,12 +224,12 @@ small{
 .contacth1{
 	text-align: center;
 	margin-top: 20px;
-	marquee
+	
 }
 
 .fa.fa-quote-left{
-	font-size: 34px;
-	color: #ff523b;
+	font-size: 20px;
+	color: blue;
 }
 .col-3 p{
 
@@ -240,6 +241,13 @@ small{
 	font-weight: 600;
 	color: #555;
 	font-size: 15px;
+}
+.soclink{
+	color: black;
+	transition: color .5s;
+}
+.soclink:hover{
+	color: #0E46A3;
 }
 
 /*----------brands--------*/
